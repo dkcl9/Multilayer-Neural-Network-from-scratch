@@ -1,2 +1,2 @@
-Multilayer Neural Network from scratch
+Multilayer Neural Network from scratch /n
 Dateset: MNIST Database
